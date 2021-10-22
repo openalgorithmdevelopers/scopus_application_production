@@ -24,12 +24,12 @@ app = Flask(__name__)
 def home():
     userInfo = list()
     if request.method == "POST":
-       userIP = request.remote_addr
-       timeString = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+       # userIP = request.remote_addr
+       # timeString = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 
-       userInfo.append(str(userIP) + "," + timeString)
-       df = pd.DataFrame(userInfo)
-       df.to_csv("usage_report.csv", mode="a", index=False)
+       # userInfo.append(str(userIP) + "," + timeString)
+       # df = pd.DataFrame(userInfo)
+       # df.to_csv("usage_report.csv", mode="a", index=False)
        
        author_id = request.form.get("MERGE1")
        startDate = request.form.get("startDate")
