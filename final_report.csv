@@ -1,0 +1,63 @@
+SNo.,Article Type,Title,Journal/Conference/Book chapter Name,Year,Vol/Issue/pages,citations,Authors
+1,Conference Paper,Neural Networks based Hand-crafted genetic learning approach to simulate Space Mario Game,"Proceedings - International Conference on Smart Electronics and Communication, ICOSEC 2020",2020," pp. 1–5, 9215233","0
+Citations","Rawat, S.S., Rawat, K.S., Rawat, V., Nijhawan, R."
+2,Conference Paper,A novel convolutional neural network-gated recurrent unit approach for image captioning,"Proceedings of the 3rd International Conference on Smart Systems and Inventive Technology, ICSSIT 2020",2020," pp. 704–708, 9214109","0
+Citations","Rawat, S.S., Rawat, K.S., Nijhawan, R."
+3,Conference Paper,A Deep Learning Framework Approach for Urban Area Classification Using Remote Sensing Data,Advances in Intelligent Systems and Computing,2020," 1022 AISC, pp. 449–456","0
+Citations","Nijhawan, R., Jindal, R., Sharma, H., Raman, B., Das, J."
+4,Book Chapter,An integrated adaboost algorithm for down syndrome disease recognition,Lecture Notes in Networks and Systems,2020," 119, pp. 47–53","0
+Citations","Agarwal, P., Chaudhary, M., Nijhawan, R."
+5,Conference Paper,A Deep Learning Approach for Classification of Onychomycosis Nail Disease,Lecture Notes in Electrical Engineering,2020," 605, pp. 1112–1118","3
+Citations","Aishwarya,, Goel, A., Nijhawan, R."
+6,Conference Paper,A Hybrid Deep Learning Approach for Automatic Fish Classification,Lecture Notes in Electrical Engineering,2020," 605, pp. 427–436","3
+Citations","Chhabra, H.S., Srivastava, A.K., Nijhawan, R."
+7,Book Chapter,A Proposed Framework Approach for Mapping Glacier Hazard Zones,Lecture Notes in Civil Engineering,2020," 33, pp. 547–555","0
+Citations","Nijhawan, R., Das, J."
+8,Conference Paper,Classification of lesions in retinal fundus images for diabetic retinopathy using transfer learning,"Proceedings - 2019 International Conference on Information Technology, ICIT 2019",2019," pp. 342–347, 9031884","6
+Citations","Gupta, S., Panwar, A., Goel, S., ...Nijhawan, R., Singh, A.K."
+9,Conference Paper,A Classifier Approach using Deep Learning for Human Activity Recognition,Proceedings of the IEEE International Conference Image Information Processing,2019," 2019-November, pp. 486–490, 8985926","2
+Citations","Rawat, S.S., Bisht, A., Nijhawan, R."
+10,Conference Paper,A Deep Learning based CNN framework approach for Plankton Classification,Proceedings of the IEEE International Conference Image Information Processing,2019," 2019-November, pp. 268–273, 8985838","3
+Citations","Rawat, S.S., Bisht, A., Nijhawan, R."
+11,Conference Paper,A Machine Learning Based Approach for Progeria Syndrome Detection,"2019 4th International Conference on Information Systems and Computer Networks, ISCON 2019",2019," pp. 74–78, 9036229","2
+Citations","Chandra, D., Rawat, S.S., Nijhawan, R."
+12,Conference Paper,Hybrid Computational Intelligence Technique: Eczema Detection,"IEEE Region 10 Annual International Conference, Proceedings/TENCON",2019," 2019-October, pp. 2472–2474, 8929578","2
+Citations","Arora, Y.K., Tandon, A., Nijhawan, R."
+13,Article  •  Open Access,An integrated deep learning framework of tomato leaf disease detection,International Journal of Innovative Technology and Exploring Engineering,2019," 8(11 Special Issue), pp. 46–50","1
+Citations","Khurana, J., Sharma, A., Chhabra, H.S., Nijhawan, R."
+14,Article  •  Open Access,A composite deep learning access for leaf species classification,International Journal of Innovative Technology and Exploring Engineering,2019," 8(11 Special Issue), pp. 42–45","0
+Citations","Rautela, Y.S., Garg, K., Chhabra, H.S., Nijhawan, R."
+15,Article  •  Open Access,A research on deep learning advance for landslide classification using convolutional neural networks,International Journal of Innovative Technology and Exploring Engineering,2019," 8(6 Special Issue 4), pp. 903–906","0
+Citations","Bhatt, J., Gangwar, A., Nijhawan, R., Gangodkar, D."
+16,Conference Paper,Pneumonia Detection Using CNN based Feature Extraction,"Proceedings of 2019 3rd IEEE International Conference on Electrical, Computer and Communication Technologies, ICECCT 2019",2019, 8869364,"55
+Citations","Varshni, D., Thakral, K., Agarwal, L., Nijhawan, R., Mittal, A."
+17,Article,A hybrid of deep learning and hand-crafted features based approach for snow cover mapping,International Journal of Remote Sensing,2019," 40(2), pp. 759–773","12
+Citations","Nijhawan, R., Das, J., Raman, B."
+18,Article,A novel deep learning framework approach for waste segregation,Journal of Advanced Research in Dynamical and Control Systems,2019," 11(3 Special Issue), pp. 1805–1811","0
+Citations","Nijhawan, R., Singh, A.K., Gangwar, A."
+19,Article,A novel ada boost approach to detect out the magnitude of trash,Journal of Advanced Research in Dynamical and Control Systems,2019," 11(3 Special Issue), pp. 1855–1860","0
+Citations","Chaudhary, M., Agarwal, P., Nijhawan, R."
+20,Article,A novel adaboost approach for cloud type classification,Journal of Advanced Research in Dynamical and Control Systems,2019," 11(6 Special Issue), pp. 372–376","1
+Citations","Alam, N., Agarwal, S., Gautam, M., Srivasata, A., Nijhawan, R."
+21,Book Chapter,A Novel Deep Learning Framework Approach for Natural Calamities Detection,Lecture Notes in Networks and Systems,2019," 40, pp. 561–569","4
+Citations","Nijhawan, R., Rishi, M., Tiwari, A., Dua, R."
+22,Conference Paper,A futuristic deep learning framework approach for land use-land cover classification using remote sensing imagery,Advances in Intelligent Systems and Computing,2019," 702, pp. 87–96","12
+Citations","Nijhawan, R., Joshi, D., Narang, N., Mittal, A., Mittal, A."
+23,Article,A Hybrid CNN + Random Forest Approach to Delineate Debris Covered Glaciers Using Deep Features,Journal of the Indian Society of Remote Sensing,2018," 46(6), pp. 981–989","5
+Citations","Nijhawan, R., Das, J., Balasubramanian, R."
+24,Conference Paper,An integrated deep learning framework approach for nail disease identification,"Proceedings - 13th International Conference on Signal-Image Technology and Internet-Based Systems, SITIS 2017",2018," 2018-January, pp. 197–202","14
+Citations","Nijhawan, R., Verma, R., Ayushi,, ...Dua, R., Mittal, A."
+25,Conference Paper,A deep learning hybrid CNN framework approach for vegetation cover mapping using deep features,"Proceedings - 13th International Conference on Signal-Image Technology and Internet-Based Systems, SITIS 2017",2018," 2018-January, pp. 192–196","20
+Citations","Nijhawan, R., Sharma, H., Sahni, H., Batra, A."
+26,Conference Paper,Land cover classification using super-vised and unsupervised learning techniques,"ICCIDS 2017 - International Conference on Computational Intelligence in Data Science, Proceedings",2018," 2018-January, pp. 1–6","7
+Citations","Nijhawan, R., Srivastava, I., Shukla, P."
+27,Conference Paper,Glacier terminus position monitoring and modelling using remote sensing data,Communications in Computer and Information Science,2018," 906, pp. 11–23","0
+Citations","Nijhawan, R., Jain, K."
+28,Conference Paper,"Meta-classifier approach with ANN, SVM, rotation forest, and random forest for snow cover mapping",Advances in Intelligent Systems and Computing,2018," 704, pp. 279–287","7
+Citations","Nijhawan, R., Raman, B., Das, J."
+29,Article,Proposed hybrid-classifier ensemble algorithm to map snow cover area,Journal of Applied Remote Sensing,2018," 12(1), 016003","9
+Citations","Nijhawan, R., Raman, B., Das, J."
+30,Conference Paper,Impact of snow avalanche on vegetation area using remote sensing data,ACM International Conference Proceeding Series,2016," 12-13-August-2016, a20","0
+Citations","Nijhawan, R., Das, J., Raman, B."
+31,Conference Paper,Comparison of support vector machine and artificial neural network for delineating debris covered glacier,Communications in Computer and Information Science,2016," 628 CCIS, pp. 550–557","1
+Citations","Nijhawan, R., Das, J., Balasubramanian, R."
